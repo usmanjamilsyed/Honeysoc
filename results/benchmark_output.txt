@@ -1,0 +1,7 @@
+Starting HoneySOC Performance Benchmark...
+
+--- ACADEMIC BENCHMARK RESULTS ---
+Total Logs Processed : 10,000
+Total Time Taken     : 0.0358 seconds
+Throughput (EPS)     : 279,034.29 Events Per Second
+Avg Latency per Log  : 0.0036 milliseconds

@@ -1,0 +1,12 @@
+{
+  "events": 100,
+  "tamper_detected": "100/100",
+  "reorder_detected": "99/99",
+  "full_rewrite_detected_by_verify_alone": "0/100",
+  "full_rewrite_detected_by_trusted_checkpoint": "100/100",
+  "benchmark_runs": 10,
+  "throughput_eps_mean": 304037.6,
+  "throughput_eps_std": 8321.2,
+  "throughput_eps_min": 293054.1,
+  "throughput_eps_max": 320121.0
+}
