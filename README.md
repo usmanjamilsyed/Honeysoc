@@ -1,4 +1,4 @@
-# HoneySOC: Tamper-Evident Honeypot Log Ingestion with a Cryptographic Hash Chain
+# HoneySOC: An Agentic Post-Quantum Telemetry Integrity Framework for Secure Critical Infrastructure
 
 HoneySOC is a small Security Operations Center (SOC) prototype. A honeypot streams attack events into a Redis queue; the SOC engine pulls each event and links it to the previous one with a SHA-256 hash chain, so any later modification or reordering of the log is detectable.
 
